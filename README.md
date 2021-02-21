@@ -2,6 +2,8 @@
 
 #### Maker of the Fluent Language and Engage Edge Platform
 
+<img src="https://res.cloudinary.com/ops1/image/upload/v1613918888/xp/engagecommunity.svg"></img>
+
 
 <!--
 **xpertana/xpertana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
